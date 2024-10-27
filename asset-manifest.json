@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assig-7/static/css/main.7bd6c134.css",
+    "main.js": "/Assig-7/static/js/main.57f7cec4.js",
+    "static/js/453.c8805169.chunk.js": "/Assig-7/static/js/453.c8805169.chunk.js",
+    "index.html": "/Assig-7/index.html",
+    "main.7bd6c134.css.map": "/Assig-7/static/css/main.7bd6c134.css.map",
+    "main.57f7cec4.js.map": "/Assig-7/static/js/main.57f7cec4.js.map",
+    "453.c8805169.chunk.js.map": "/Assig-7/static/js/453.c8805169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bd6c134.css",
+    "static/js/main.57f7cec4.js"
+  ]
+}
